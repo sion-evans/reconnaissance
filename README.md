@@ -9,3 +9,9 @@ Miscellaneous scripts focused around network reconnaissance.
 `netdiscover`
 
 `netdiscover -p`
+
+## DNS
+
+`host -t ns <domain>`
+`host -t mx <domain>`
+`host -l <domain> <name-server>`
