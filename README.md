@@ -10,7 +10,7 @@ Miscellaneous scripts focused around network reconnaissance.
 
 `netdiscover -p`
 
-## DNS
+## DNS (Domain Name System)
 
 `host -t ns <domain>`
 
