@@ -13,5 +13,7 @@ Miscellaneous scripts focused around network reconnaissance.
 ## DNS
 
 `host -t ns <domain>`
+
 `host -t mx <domain>`
+
 `host -l <domain> <name-server>`
